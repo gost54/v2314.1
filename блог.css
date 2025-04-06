@@ -1,0 +1,43 @@
+.post-info{
+    color: grey;
+
+}
+.post{
+    display: flex;
+    background: white;
+    border: 4px solid white;
+    border-radius: 15px;
+}
+.coment{
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+.autor{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.date{
+    color: silver;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.sybcoment{
+    margin-left: 40px;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+.coment h5, .sybcoment h5{
+    color: black;
+}
+.coment h4, .sybcoment h4{color: black;}
+h3,li,h2,h1,h4,h5,h6,a,ul,b,i,p {
+    font-family: "Bytesized", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }

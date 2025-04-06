@@ -1,0 +1,31 @@
+.customerName,.customerEmeil,.customerPhone,.customerNote,.customerOrder,label,textarea,button{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 10px;
+    width: auto;
+    
+    
+}
+.customerOrder,textarea,button{
+    border-radius: 15px;
+    width: auto;
+}
+.contact-us{
+    background: #f8f4e5;
+    padding: 50px 100px;
+    border-top: 10px soild #f45702;
+}
+label{
+    color: black;
+}
+input,textarea,button{
+    width: 100%;
+    height: 4%;
+}
+em{color: red;}
+h3,li,h2,h1,h4,h5,h6,a,ul,b,i,p {
+    font-family: "Bytesized", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
