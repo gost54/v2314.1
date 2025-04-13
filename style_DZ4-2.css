@@ -1,0 +1,40 @@
+body { 
+  background-image: url('background.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  font-family: Arial, sans-serif; 
+  color: #fff; 
+} 
+
+.movie-info { 
+  text-align: center; 
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 20px; 
+  margin: 20px; 
+  border-radius: 5px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+} 
+
+.title { 
+  color: #ff9900; 
+  font-size: 36px; 
+  text-shadow: 2px 2px 4px #000; 
+} 
+
+.description { 
+  font-style: italic; 
+} 
+
+.rating { 
+  margin-top: 15px; 
+} 
+
+.category { 
+  font-weight: bold; 
+  margin-right: 5px; 
+} 
+
+.value { 
+  color: #00cc00; 
+}
